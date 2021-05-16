@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="hostadelic.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   version="1.1"
+   id="svg2"
+   height="309.22559"
+   width="486.85876">
+  <title
+     id="title3015">Shaded clouds</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1433">
+      <stop
+         style="stop-color:#f34455;stop-opacity:1"
+         offset="0"
+         id="stop1437" />
+      <stop
+         id="stop1465"
+         offset="0.24406108"
+         style="stop-color:#e02eaa;stop-opacity:1" />
+      <stop
+         id="stop1459"
+         offset="0.39493716"
+         style="stop-color:#dd7f34;stop-opacity:1" />
+      <stop
+         style="stop-color:#c5cc37;stop-opacity:1"
+         offset="0.56925058"
+         id="stop1463" />
+      <stop
+         style="stop-color:#4ec4aa;stop-opacity:1"
+         offset="0.67754519"
+         id="stop1461" />
+      <stop
+         id="stop1469"
+         offset="0.85990489"
+         style="stop-color:#3de95f;stop-opacity:1" />
+      <stop
+         style="stop-color:#ff3aff;stop-opacity:1"
+         offset="1"
+         id="stop1439" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect2998"
+       effect="spiro" />
+    <filter
+       color-interpolation-filters="sRGB"
+       y="-0.25"
+       x="-0.25"
+       height="1.5"
+       width="1.5"
+       inkscape:label="Drop shadow"
+       id="filter3001">
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="3"
+         in="SourceAlpha"
+         id="feGaussianBlur3003" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.6 0 "
+         type="matrix"
+         result="bluralpha"
+         id="feColorMatrix3005" />
+      <feOffset
+         result="offsetBlur"
+         dy="6"
+         dx="6"
+         in="bluralpha"
+         id="feOffset3007" />
+      <feMerge
+         id="feMerge3009">
+        <feMergeNode
+           in="offsetBlur"
+           id="feMergeNode3011" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode3013" />
+      </feMerge>
+    </filter>
+    <filter
+       y="-0.25"
+       x="-0.25"
+       height="1.5"
+       width="1.5"
+       inkscape:label="Drop shadow"
+       id="filter3001-9"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="3"
+         in="SourceAlpha"
+         id="feGaussianBlur3003-1" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.6 0 "
+         type="matrix"
+         result="bluralpha"
+         id="feColorMatrix3005-6" />
+      <feOffset
+         result="offsetBlur"
+         dy="6"
+         dx="6"
+         in="bluralpha"
+         id="feOffset3007-2" />
+      <feMerge
+         id="feMerge3009-2">
+        <feMergeNode
+           in="offsetBlur"
+           id="feMergeNode3011-1" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode3013-3" />
+      </feMerge>
+    </filter>
+    <filter
+       y="-0.25"
+       x="-0.25"
+       height="1.5"
+       width="1.5"
+       inkscape:label="Drop shadow"
+       id="filter3001-9-0"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="3"
+         in="SourceAlpha"
+         id="feGaussianBlur3003-1-5" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.6 0 "
+         type="matrix"
+         result="bluralpha"
+         id="feColorMatrix3005-6-9" />
+      <feOffset
+         result="offsetBlur"
+         dy="6"
+         dx="6"
+         in="bluralpha"
+         id="feOffset3007-2-9" />
+      <feMerge
+         id="feMerge3009-2-1">
+        <feMergeNode
+           in="offsetBlur"
+           id="feMergeNode3011-1-7" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode3013-3-5" />
+      </feMerge>
+    </filter>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94910975,-0.31494525,0.18966332,0.57156378,-22.139024,450.43425)"
+       r="761.34052"
+       fy="366.64789"
+       fx="931.42859"
+       cy="366.64789"
+       cx="931.42859"
+       id="radialGradient1467"
+       xlink:href="#linearGradient1433"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="788"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="185.19424"
+     inkscape:cx="221.64261"
+     inkscape:zoom="1.2484809"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Shaded clouds</dc:title>
+        <dc:date>2015</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>arking</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clouds shade</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(418.75807,574.78032)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <path
+       transform="matrix(0.39938184,0,0,0.39938184,-547.32435,-566.60005)"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path2996-8-4"
+       d="m 1260.2677,685.9824 -682.85723,2.85714 C 380.33107,641.90175 373.25497,430.81647 554.55337,337.41097 538.64487,192.0179 705.38459,83.568691 828.83909,183.12525 966.91093,-71.010457 1327.587,51.701781 1271.6962,328.83954 c 170.3678,5.53358 274.9179,293.53348 -11.4285,357.14286"
+       style="fill:url(#radialGradient1467);stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3001-9-0);fill-opacity:1" />
+  </g>
+</svg>

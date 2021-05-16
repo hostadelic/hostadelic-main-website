@@ -1,0 +1,55 @@
+.code,
+code {
+  padding: 0 0.25rem;
+  background: #eee;
+  border-radius: 3px;
+  margin-right: 0.5rem;
+  font-family: monospace;
+  display: inline-block;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  line-height: 2.35rem;
+}
+
+body {
+  margin: 0;
+  font-size: 16px;
+  line-height: 22px;
+  color: #06395a;
+  border-top: 10px solid #775566;
+  padding-top: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+    'Helvetica Neue', sans-serif;
+  background: #e0e0f0;
+}
+
+a {
+  text-decoration: none;
+  color: #06395a;
+}
+
+.rainbow-box {
+    /*width: 80vw;
+    height: 200px;
+    border-radius: 5px;*/
+    background: linear-gradient(
+        90deg,
+        rgba(248, 0, 0, 1) 0%,
+        rgba(248, 154, 0, 1) 10%,
+        rgba(208, 222, 33, 1) 20%,
+        rgba(79, 220, 74, 1) 30%,
+        rgba(63, 218, 216, 1) 40%,
+        rgba(47, 201, 226, 1) 50%,
+        rgba(28, 127, 230, 1) 60%,
+        rgba(95, 21, 232, 1) 70%,
+        rgba(186, 12, 230, 1) 80%,
+        rgba(232, 7, 217, 1) 90%,
+        rgba(248, 0, 0, 1) 100%
+    );
+}
